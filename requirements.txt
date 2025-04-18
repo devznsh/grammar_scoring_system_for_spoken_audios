@@ -1,0 +1,5 @@
+openai-whisper
+language-tool-python
+torch
+pandas
+nltk
